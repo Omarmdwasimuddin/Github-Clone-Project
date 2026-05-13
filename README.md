@@ -1,4 +1,4 @@
-## Github-Clone-Project
+## Github-Clone-Project Setup Process
 
 #### Clone kora project github e push korar niyom---
 ```bash
