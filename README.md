@@ -15,3 +15,10 @@ git config --global user.name "Muhammad Wasim Uddin Omar"
 git config --global user.email "mdwasimu015@gmail.com"
 ```
 ---
+
+#### Then---
+```bash
+git add .
+git commit -m ''
+git push origin main
+```
