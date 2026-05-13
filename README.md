@@ -1,6 +1,8 @@
 ## Github-Clone-Project Setup Process
 
-#### Terminal open koro--->prompt: git clone github-project-url--->prompt: cd project-name
+#### Terminal open koro--->prompt: git clone github-project-url--->prompt: cd project-name--->prompt: code .
+
+#### prompt: npm install for node_modules
 
 #### Clone kora project github e push korar niyom---
 ```bash
