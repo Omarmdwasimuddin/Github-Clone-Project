@@ -1,5 +1,7 @@
 ## Github-Clone-Project Setup Process
 
+#### Terminal open koro--->prompt: git clone github-project-url--->prompt: cd project-name
+
 #### Clone kora project github e push korar niyom---
 ```bash
 git config --global user.name "Your Name"
@@ -19,6 +21,6 @@ git config --global user.email "mdwasimu015@gmail.com"
 #### Then---
 ```bash
 git add .
-git commit -m ''
+git commit -m 'initial commit'
 git push origin main
 ```
