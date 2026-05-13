@@ -11,6 +11,7 @@ git config --global user.email "you@example.com"
 ```
 #### 👉 you@example.com এর জায়গায় তোমার GitHub email দিতে হবে
 #### 👉 আর "Your Name" এর জায়গায় তোমার GitHub name
+#### Note: ekbar global config korle next time e ei command gulo dete hobe na. direct git add . diye command kora suru kora jabe.
 ---
 
 #### Real Examples---
